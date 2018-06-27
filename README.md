@@ -7,5 +7,6 @@ Main repository
 
 ### Microservices
 
-* [credit_service](https://github.com/if1007/credit_service)
-* [store_service](https://github.com/if1007/store_service)
+* [creditservice](https://github.com/if1007/creditService)
+* [storeservice](https://github.com/if1007/storeService)
+* [logservice](https://github.com/if1007/logservice)
