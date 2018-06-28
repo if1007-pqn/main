@@ -15,9 +15,9 @@ estimulando-o a continuar comprando na mesma loja envolvida.
 
 ### Repositórios
 
-* [creditservice](https://github.com/if1007/creditService)
-* [storeservice](https://github.com/if1007/storeService)
-* [logservice](https://github.com/if1007/logservice)
+* [creditservice](https://github.com/if1007-pqn/creditService)
+* [storeservice](https://github.com/if1007-pqn/storeService)
+* [logservice](https://github.com/if1007-pqn/logservice)
 
 
 ### Equipe
