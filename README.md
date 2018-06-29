@@ -26,7 +26,8 @@ estimulando-o a continuar comprando na mesma loja envolvida.
 * Vinícius de Moraes (vrm)
 
 ### Technical Report
-
+[Aqui](https://raw.githubusercontent.com/if1007-pqn/main/master/tech-report.pdf)
+ou
 [Aqui](https://docs.google.com/document/d/1gqsYG4S3HsR_eC-S7-NufCkqJpvoSB5yCnDU9oFeA9E/)
 
 ### Mindmap
